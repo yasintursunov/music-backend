@@ -1,0 +1,75 @@
+{
+  "genres": [
+    "Rock'n'Roll",
+    "Pop",
+    "House",
+    "Electronic",
+    "Hip-Hop",
+    "Country",
+    "Folk",
+    "Jazz",
+    "Classical",
+    "Metal",
+    "Indie"
+  ],
+  "firstNames": [
+    "Aaron",
+    "Melanie",
+    "Ella",
+    "John",
+    "Frank",
+    "Donald",
+    "Rick",
+    "Morty",
+    "Elton",
+    "Mimi",
+    "Anu",
+    "Albert"
+  ],
+  "lastNames": [
+    "Aaronson",
+    "Smith",
+    "Silver",
+    "Knuth",
+    "Zappa",
+    "Taylor",
+    "Johnson",
+    "Williams",
+    "Brown",
+    "Davis"
+  ],
+  "bandWords": [
+    "Ponies",
+    "Cockroaches",
+    "Hearts Club Band",
+    "Fast Office Supplies",
+    "Huge",
+    "Whisper",
+    "Simulation",
+    "All My Circuits",
+    "Friends",
+    "Yesn't"
+  ],
+  "albumWords": [
+    "Get schwifty!",
+    "Friends",
+    "Simulacra and Simulation",
+    "All My Circuits",
+    "No Good Deal",
+    "Do or Don't",
+    "Single",
+    "Oh, My God"
+  ],
+  "lyricPhrases": [
+    "Every beat reminds me",
+    "Shining city lights",
+    "I’m running to you",
+    "Echoes in the night",
+    "Hold on to the fire",
+    "We’ll dance forever",
+    "Across the empty streets",
+    "Whisper to the moon",
+    "At the break of dawn",
+    "I try to move on"
+  ]
+}

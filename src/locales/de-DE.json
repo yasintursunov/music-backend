@@ -1,0 +1,71 @@
+{
+  "genres": [
+    "Rock",
+    "Pop",
+    "Haus",
+    "Elektronisch",
+    "Hip-Hop",
+    "Country",
+    "Volksmusik",
+    "Jazz",
+    "Klassik",
+    "Metal",
+    "Indie"
+  ],
+  "firstNames": [
+    "Anna",
+    "Lukas",
+    "Marta",
+    "Jonas",
+    "Paul",
+    "Lea",
+    "Emil",
+    "Klara",
+    "Felix",
+    "Sophie"
+  ],
+  "lastNames": [
+    "Müller",
+    "Schmidt",
+    "Schneider",
+    "Fischer",
+    "Weber",
+    "Wagner",
+    "Becker",
+    "Hoffmann",
+    "Schäfer",
+    "Koch"
+  ],
+  "bandWords": [
+    "Sternfahrer",
+    "Elektrische Katzen",
+    "Riesenponys",
+    "Goldene Herzen",
+    "Mittagssturm",
+    "Flüsterwald",
+    "Nordlicht",
+    "Kollektiv"
+  ],
+  "albumWords": [
+    "Gute Laune",
+    "Nachts in Berlin",
+    "Wolkenreise",
+    "Kein Zufall",
+    "Einfach so",
+    "Leises Echo",
+    "Einzelstück",
+    "Für Immer"
+  ],
+  "lyricPhrases": [
+    "Jeder Schlag erinnert mich",
+    "Leuchtende Stadtlichter",
+    "Ich laufe zu dir",
+    "Echos in der Nacht",
+    "Halte das Feuer",
+    "Wir tanzen für immer",
+    "Über leere Straßen",
+    "Flüstern zum Mond",
+    "Im Morgenlicht",
+    "Ich versuch weiterzugehen"
+  ]
+}
